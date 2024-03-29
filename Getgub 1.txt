@@ -1,0 +1,16 @@
+<|DOCTYFE html>
+<html>
+<head>
+<title> Учебный материал</title>
+</head>
+
+<body>
+
+Page under construction 
+
+
+
+
+</body>
+
+</html>
